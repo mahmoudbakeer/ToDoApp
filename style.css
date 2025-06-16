@@ -1,0 +1,8 @@
+input{
+    display: block;
+}
+.notes{
+    display: inline-block;
+    border: 1px solid black;
+    margin: auto;
+}
